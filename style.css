@@ -88,4 +88,8 @@ footer{
 		width: 100;
 		height: auto;
 	}
+th{
+	padding: 10px;
+ 	text-align: center;
+}
 }
