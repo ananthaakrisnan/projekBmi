@@ -15,7 +15,6 @@
 			&nbsp
 			<ul>
 				<li><a href="logmasuk.php" style="color: whitesmoke;">LOG MASUK</a></li><br>&nbsp
-				<li><a href="logout.php" style="color: whitesmoke;">LOG OUT</a></li><br>
 				&nbsp
 			</ul>
 		</nav>
