@@ -22,7 +22,7 @@
 		
 		<article>
 		<div class="data">
-			<h2>HELLO WORLD</h2>
+			<h2>PAGE HALAMAN UTAMA</h2>
 			&nbsp
 			<p>ADAKAH ANDA TELAH BERSEDIA</p>
 			<p>SERTAI KAMI DI DIGITAL COLLEGE SHAH ALAMBAGI MENGUASAI <u>AKADEMIK DAN KEMAHIRAN</u>
